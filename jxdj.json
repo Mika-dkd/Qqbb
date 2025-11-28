@@ -1,0 +1,54 @@
+{
+      "Status": 3,
+        "TC": false,
+          "RD": true,
+            "RA": true,
+              "AD": false,
+                "CD": true,
+                  "Question": [
+                      {
+                            "name": "Hdjdhd.in-addr.arpa.",
+                                  "type": 12
+                                      }
+                                        ],
+                                          "Authority": [
+                                              {
+                                                    "name": "99.in-addr.arpa.",
+                                                          "type": 47,
+                                                                "TTL": 3600,
+                                                                      "data": "in-addr.arpa. NS DS RRSIG NSEC"
+                                                                          },
+                                                                              {
+                                                                                    "name": "99.in-addr.arpa.",
+                                                                                          "type": 46,
+                                                                                                "TTL": 3600,
+                                                                                                      "data": "nsec 8 3 3600 1765234845 1763419351 2109 in-addr.arpa. EMPbIYt8Kvt6tMBA2ChLKvn21umhVFGOaN2zv+jnjNQBp0sIttplnPWAqvjFRtIN0tY6OcP/L0vJAkpmryflaai2ZoME9H1zpM6HdRqoSKMWLMK8cJowxMsOeUAfWnSus8gZEmBUmOmLvUP0U8vCfhvYVqIIqMfz5k4ptq2wcyU="
+                                                                                                          },
+                                                                                                              {
+                                                                                                                    "name": "in-addr.arpa.",
+                                                                                                                          "type": 47,
+                                                                                                                                "TTL": 3600,
+                                                                                                                                      "data": "1.in-addr.arpa. NS SOA RRSIG NSEC DNSKEY"
+                                                                                                                                          },
+                                                                                                                                              {
+                                                                                                                                                    "name": "in-addr.arpa.",
+                                                                                                                                                          "type": 46,
+                                                                                                                                                                "TTL": 3600,
+                                                                                                                                                                      "data": "nsec 8 2 3600 1765227891 1763433751 2109 in-addr.arpa. LoRVzQ723d6QkTGVy6146uUk9sadiTsXGqJZBpRbLRRb7pNY1NvbcxM+fH/bmoUZdl/T7uphpetUNKL+lnqf44MOVNi66ky985k9rbe3iCewiBN+8BHpMdudnHnLWM+t4Es1G3NEDGXmxeGGh8zIm9ubUp+CpLQ0lmW2ixKAOk0="
+                                                                                                                                                                          },
+                                                                                                                                                                              {
+                                                                                                                                                                                    "name": "in-addr.arpa.",
+                                                                                                                                                                                          "type": 6,
+                                                                                                                                                                                                "TTL": 3600,
+                                                                                                                                                                                                      "data": "b.in-addr-servers.arpa. nstld.iana.org. 2025071716 1800 900 604800 3600"
+                                                                                                                                                                                                          },
+                                                                                                                                                                                                              {
+                                                                                                                                                                                                                    "name": "in-addr.arpa.",
+                                                                                                                                                                                                                          "type": 46,
+                                                                                                                                                                                                                                "TTL": 3600,
+                                                                                                                                                                                                                                      "data": "soa 8 2 3600 1766150658 1764343078 2109 in-addr.arpa. ImocRhyCykcmB5jNCEDmCz4i9+CpDMtE4h5AAR4W6QouPNixzkylFlT290i4kc5Os0kQ4j/VNYYG6O1/1tIRDHRGCVuBcc3UUDfir65re5LXlHq08xaHDkVsNIR1EZ+9pic2hUWQcsUUMxzmUNAZ+Hd/rcdBqyHhTEDB3ADfIxU="
+                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                            ],
+                                                                                                                                                                                                                                              "edns_client_subnet": "8.8.8.0/0",
+                                                                                                                                                                                                                                                "Comment": "Response from 199.253.183.183."
+                                                                                                                                                                                                                                                }
