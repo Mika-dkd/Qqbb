@@ -35,5 +35,3 @@ function FindProxyForURL(url, host) {
                                                                                                                                                                     // أو إرسالها مباشرة إذا لم يكن لديك بروكسي إجباري
                                                                                                                                                                         return "DIRECT"; 
                                                                                                                                                                         }
-
-}
